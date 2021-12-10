@@ -1,4 +1,3 @@
-<div md-colors="{background: 'grey-50'}">
 ![](https://clipartix.com/wp-content/uploads/2016/04/Movie-film-strip-clipart.png)
 
 # Project Overview
